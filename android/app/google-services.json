@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126411952278",
+    "project_id": "yessine-17931",
+    "storage_bucket": "yessine-17931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126411952278:android:38b47b08c5bad8db94b2b7",
+        "android_client_info": {
+          "package_name": "com.example.yessine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAATnTqQFmtYuC-x8o-UE83QUww8tNc7fE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
