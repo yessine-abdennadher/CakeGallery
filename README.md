@@ -29,11 +29,11 @@ Elle permet aux utilisateurs d’explorer des idées de gâteaux, d’enregistre
 ## 📱 Aperçu de l’application
 
 <p align="center">
-<img src="assets/login.jpeg"  width="170"/>
-<img src="assets/register.jpeg" alt="Écran d'accueil" width="170"/>
-  <img src="assets/home.jpeg" alt="Écran d'accueil" width="170"/>
-  <img src="assets/favorite_cake.jpeg" alt="Détails du gâteau" width="170"/>
-  <img src="assets/favorite_cake.jpeg" alt="Bibliothèque de favoris" width="170"/>
+<img src="assets/login.jpeg"  width="160"/>
+<img src="assets/register.jpeg" alt="Écran d'accueil" width="160"/>
+  <img src="assets/home.jpeg" alt="Écran d'accueil" width="160"/>
+  <img src="assets/favorite_cake.jpeg" alt="Détails du gâteau" width="160"/>
+  <img src="assets/favorite_cake.jpeg" alt="Bibliothèque de favoris" width="160"/>
 </p>
 
 ---
