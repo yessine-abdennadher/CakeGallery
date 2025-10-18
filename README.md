@@ -13,7 +13,7 @@ Elle permet aux utilisateurs d’explorer des idées de gâteaux, d’enregistre
 - 🗂️ **Bibliothèque personnelle** : Accédez à tous vos gâteaux favoris dans un espace dédié.
 - 🌐 **Intégration API Pixabay** : Les images sont automatiquement chargées depuis l’API Pixabay.
 - 💾 **Persistance des favoris** : Vos choix sont enregistrés même après la fermeture de l’application.
-- 🌙 **Mode clair et sombre** pour une meilleure expérience utilisateur.
+
 
 ---
 
@@ -21,11 +21,8 @@ Elle permet aux utilisateurs d’explorer des idées de gâteaux, d’enregistre
 
 - **Flutter** (Framework multiplateforme)
 - **Dart** (Langage principal)
-- **GetX** (Gestion d’état et navigation)
 - **HTTP** (Appels API à Pixabay)
 - **Pixabay API** (Source des images)
-- **Google Fonts** pour une typographie élégante
-- **Lottie Animations** pour des transitions douces et attrayantes
 
 ---
 
