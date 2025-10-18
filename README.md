@@ -1,16 +1,48 @@
-# yessine
+# 🎂 CakeGallery – Explorez, Enregistrez et Inspirez 🍰
 
-A new Flutter project.
+Bienvenue dans **CakeGallery**, une application mobile développée avec **Flutter**, inspirée du concept de **Pinterest**, dédiée exclusivement aux amateurs de **gâteaux**.  
+Elle permet aux utilisateurs d’explorer des idées de gâteaux, d’enregistrer leurs favoris et de créer une bibliothèque personnelle d’inspirations gourmandes. 🎀
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fonctionnalités principales
 
-A few resources to get you started if this is your first Flutter project:
+- 🧁 **Exploration visuelle** : Découvrez une large collection d’images de gâteaux provenant de la communauté.
+- ❤️ **Ajout aux favoris** : Sauvegardez vos gâteaux préférés pour les retrouver facilement.
+- 🔍 **Recherche intelligente** : Trouvez des gâteaux par type, couleur ou style.
+- 🗂️ **Bibliothèque personnelle** : Accédez à tous vos gâteaux favoris dans un espace dédié.
+- 🌐 **Intégration API Pixabay** : Les images sont automatiquement chargées depuis l’API Pixabay.
+- 💾 **Persistance des favoris** : Vos choix sont enregistrés même après la fermeture de l’application.
+- 🌙 **Mode clair et sombre** pour une meilleure expérience utilisateur.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🏗️ Technologies utilisées
+
+- **Flutter** (Framework multiplateforme)
+- **Dart** (Langage principal)
+- **GetX** (Gestion d’état et navigation)
+- **HTTP** (Appels API à Pixabay)
+- **Pixabay API** (Source des images)
+- **Google Fonts** pour une typographie élégante
+- **Lottie Animations** pour des transitions douces et attrayantes
+
+---
+
+## 📱 Aperçu de l’application
+
+<p align="center">
+<img src="assets/login.jpeg"  width="230"/>
+<img src="assets/register.jpeg" alt="Écran d'accueil" width="230"/>
+  <img src="assets/home.jpeg" alt="Écran d'accueil" width="230"/>
+  <img src="assets/favorite_cake.jpeg" alt="Détails du gâteau" width="230"/>
+  <img src="assets/favorite_cake.jpeg" alt="Bibliothèque de favoris" width="230"/>
+</p>
+
+---
+
+## ⚙️ Installation
+
+1. Clone le projet :
+   ```bash
+   git clone https://github.com/<ton-nom-utilisateur>/cake_gallery.git
